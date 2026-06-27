@@ -268,7 +268,7 @@ header {
   }
 
   /* Smaller text & icons so cards don't clip in landscape */
-  .card-icon  { font-size: 3.2rem; }
+  .card-icon  { font-size: 6rem; }
   .card-label { font-size: .85rem; letter-spacing: 1.5px; }
   .card-status { font-size: .68rem; }
   .card       { gap: 8px; padding: 10px 8px; }
